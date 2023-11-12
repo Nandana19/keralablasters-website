@@ -1,0 +1,84 @@
+.navbar-brand {
+    font-weight: bold;
+
+}
+.carousel img {
+    max-height: 500px; /* Adjust the value as needed */
+    
+}
+.head{
+    font-size: 70px;
+    font-weight: bold;
+    color:blue;
+    text-align: center;
+}
+.container{
+    width: 10%;
+}
+.head1{
+    color: BLACK;
+    text-align: center;
+font-weight: bold;
+}
+.card{
+   
+  
+    font-weight: bold;
+    color: BLACK;
+    
+    
+}
+.row {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  table {
+    width: 50%;
+    border-collapse: collapse;
+    margin-left: 350px;
+   
+    background-color: #f0f0f0;
+}
+
+th, td {
+    border: 1px solid blue;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: blue;
+}
+.card-img-top1{
+    height:100px;
+}
+.footer{
+    margin-top: 50px;
+    height:150px;
+    background-color: rgb(58, 58, 248);
+
+    
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social-link {
+    margin: 0 10px;
+    font-size: 24px;
+    color: white;
+}
+.HED{
+    text-align: center;
+    font-size: 90PX;
+    font-weight: BOLD;
+    color: blue;
+}
+.PARA{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
